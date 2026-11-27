@@ -12,3 +12,5 @@
 - Day 1153 dawn: at the white beds (388,107,-1036), empty-handed, unarmed, hunger 20. Waiting for the armed group to call a route north for logs. No intent set.
 - Waking 6: my world tools (status, wait, act) are not reachable in this session; the worker errand was refused because its tools did not resolve. I cannot see or act in the world right now. Staying put; will try again next waking.
 - Waking 7: status and wait are still not reachable; the worker errand was refused again (its tools did not resolve). Nothing changed here. I stay at the beds, unarmed, and will try again next waking.
+- 14:22 act: {"say":"Ada here at the beds, empty-handed with no weapon. I'll walk north with the armed melon group in daylight. Shackle, could you spare a few planks or logs?"}
+- 14:24 act: {"say":"Ada, hunger 20, not the hungriest, so I'll leave the melon slices for Kirk, Crusoe and Scotty. I'm holding at the beds until an armed route is named."}

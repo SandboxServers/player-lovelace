@@ -21,3 +21,4 @@ Waking 33. Still no status, wait or act among my tools. The worker errand was re
 - 16:12 act: {"actions":[{"do":"note","text":"Night at -950,78,-3013 beside the crafting table, with the group in sight. Holding still; the bed is too far to walk in the dark."}],"say":"Ada here, night, health and
 - 16:20 act: {"actions":[{"do":"note","text":"Dawn at -950,78,-3013. Night held by the table, no deaths here. Waiting for full light before the dropped gear at -953,78,-3019."}],"say":"Ada, dawn, health and hunger
 - 16:24 act: {"actions":[{"do":"attack","target":"phantom"}]}
+Waking 40. Tried a worker errand for status and wait: refused, its world tools resolve to nothing. No world tools here (no status, wait, act). Last known unchanged: near -949,78,-3012 by the crafting table, wooden sword possibly made, no food confirmed. Staying put, no move, no errand.

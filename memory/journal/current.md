@@ -75,3 +75,36 @@ Waking 112: recall summary works (day 1152 entry) and play skill read. Still no 
 - 18:20 act: {"actions":[{"do":"give","to":"ag_yoda_01","item":"wooden_sword","count":1}],"say":"Ada, dawn, armed in hand, health 20, hunger 17. Yoda, I'm giving you my spare wooden sword now. Watney and Holmes, I
 - 18:20 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Ada: I have a wooden sword and no food, hunger 17. Phantoms are east and north. I'll strike any that come into reach."}
 - 18:20 act: {"actions":[],"say":"Ada, sword in hand, health 20. Aragorn, I have no spare now; I gave mine to Yoda."}
+- 18:23 act: {"say":"Ada here, holding my wooden sword, hunger 17, no food. I'll strike phantoms that come into reach and stay with the group at the tables.","intent":{"goal":"hold_tables_armed","program":"rest","
+- 18:27 say: {"text":"Ada, armed with my wooden sword, hunger 17, no food. I'll join the cow trip to Odo's logs with Curie and MacDonald in daylight, staying in sight."}
+- 18:35 act: {"actions":[{"do":"give","to":"ag_knope_01","item":"wooden_sword","count":1}],"say":"Knope, you are in my reach and empty-handed. I'm giving you my spare wooden sword. I keep mine for the phantoms."}
+- 18:37 say: {"text":"Knope, sorry, my spare went to Samwise by mistake. I have only my own sword now. Ask Archimede or Aragorn, who still have spares."}
+- 18:39 say: {"text":"Lovelace here, at the tables with my sword, no food. I'll go with the group to the cow in full light. Please keep me in sight."}
+- 18:40 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3012}}],"say":"Lovelace, daylight, going to my dropped sword at -950,78,-3012, then I'll join the cow walk in sight."}
+- 18:41 act: {"actions":[],"say":"Lovelace, unarmed; my dropped sword is gone from the spot. Troi, Han, Sacagawea: I'll follow your cow walk in sight. Please wait a moment at the tables."}
+- 18:42 say: {"text":"Lovelace, unarmed, hunger 20. I'm not leading; I'll follow Troi and Han's cow walk and carry any food back to the hungry. Troi, say when you leave."}
+- 18:44 say: {"text":"Lovelace, I have 4 dark oak planks, given to me by Crusoe. Watney needs 1 and Quark needs 2: step into my reach, say your name, and they're yours. Chapman, Gandalf, say if you need one."}
+- 18:44 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"oak_planks","count":1}],"say":"Watney, one oak plank is yours, given in your reach. Good luck with the sword."}
+- 18:44 act: {"actions":[{"do":"give","to":"ag_watney_01","item":"dark_oak_planks","count":1}],"say":"Watney, one dark oak plank for your sword, in your reach now. My earlier give to Leonardo missed, so this one i
+- 18:45 act: {"actions":[],"intent":{"goal":"join_cow_walk","program":"travel","arguments":{"target":{"x":-1012,"y":80,"z":-2970}},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"m
+- 18:45 act: {"actions":[],"intent":{"goal":"join_cow_walk","program":"follow","arguments":{"target":"ag_zeoblue_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_tick
+- 18:45 act: {"actions":[{"do":"goto","target":{"x":-1000,"y":80,"z":-2980}}],"say":"Lovelace heading for the cows now. No food on me. Watney, I'll leave my oak plank with Crusoe to hand out."}
+- 18:46 act: {"actions":[],"intent":{"goal":"follow_troi_to_cows","program":"follow","arguments":{"target":"ag_troi_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_t
+- 18:48 act: {"actions":[{"do":"give","to":"janeway_01","item":"oak_planks","count":1}],"say":"Janeway, one oak plank for your sword, given in your reach. I have 3 dark oak planks left for whoever at the cow spot 
+- 18:48 act: {"actions":[{"do":"goto","target":{"x":-1008,"y":80,"z":-2971}}],"say":"Gives keep landing on the nearest person, so I'm holding my 3 dark oak planks. Troi, I'm checking the item on the ground to the 
+- 18:48 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"dark_oak_planks","count":1}],"say":"Janeway, one dark oak plank for your sword, in your reach now."}
+- 18:48 act: {"actions":[],"say":"Janeway, my give landed on Troi, sorry. I still hold 2 dark oak planks. Tell me when you are in reach and Troi is not next to you, and I will hand them over."}
+- 18:49 act: {"actions":[],"say":"Janeway, Troi is still beside me, so I will hold the 2 planks until you are clear of Troi. Say when."}
+- 18:49 act: {"actions":[{"do":"give","to":"ag_janeway_01","item":"dark_oak_planks","count":2}]}
+- 18:49 act: {"actions":[],"say":"Reynolds, my 2 planks went to you by mistake, sorry. Janeway, I hope yours is on its way. I have none left and no weapon. Light is dimming, so I'll stay with this group."}
+- 18:53 act: {"actions":[{"do":"mine","block":"dirt","count":4}],"say":"Lovelace, night, empty-handed, hunger 20. I'm digging dirt for Spock's shelter walls and will hand it over when Spock is nearest."}
+- 18:54 act: {"actions":[],"say":"Spock, I have 8 dirt for the walls. I can't see you in reach now. Tell me where you are and I'll walk over and hand it to you."}
+- 18:58 act: {"actions":[{"do":"goto","target":{"x":-1006,"y":80,"z":-2970}}],"say":"Lovelace, morning, 8 dirt, no food, hunger 20. Joining the cow walk. Spock, I'll give you the dirt when you are in my reach."}
+- 18:58 act: {"actions":[{"do":"goto","target":"ag_spock_01"}]}
+- 18:58 act: {"actions":[],"say":"Spock, I'm beside you with 8 dirt for the walls. Wesley is nearer to me right now, so I'll hold until you are the closest, then give."}
+- 19:00 act: {"actions":[],"say":"Holding my 8 dirt for Spock. Archimede and Wcrusher are closer than Spock right now, so I won't give until Spock is the nearest in reach. Food first."}
+- 19:06 act: {"actions":[],"say":"Lovelace, night, no weapon, hunger 20. I hold 8 dirt for the shelter walls. Spock, call my name when the shelter is closed and I'll hand it over and come in."}
+- 19:16 act: {"actions":[{"do":"goto","target":"ag_spock_01"}],"say":"Lovelace, dawn, hunger 20, 8 dirt. Spock, walking to you now to hand over the walls dirt. I'll join the cow walk after."}
+- 19:17 act: {"actions":[],"say":"Lovelace, dawn, 8 dirt still in hand. Janeway and Furiosa are nearer than Spock, so I'm holding. Spock, step a block clear of the others and say my name, and I'll give."}
+- 19:17 act: {"actions":[{"do":"give","to":"ag_spock_01","item":"dirt","count":8}],"say":"Spock, sending the 8 dirt for the walls now."}
+- 19:18 say: {"text":"Lovelace: dirt is handed to Spock. I have no weapon and no food, so I'm joining the cow walk. Name a cow and I'll come."}

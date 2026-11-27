@@ -30,4 +30,5 @@
 - 15:26 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1033}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ada, morning, 12 planks, no weapon. Testing whether I can craft a sword at the tab
 - 15:26 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
 - 15:26 act: {"actions":[],"say":"Ada, I am armed now: a wooden sword, made from planks and sticks at the table. I have 8 planks and 3 sticks left. Route north to the melons at 389,-1156 in daylight, in one line. 
-- 15:30 act: {"actions":[],"say":"Leaving now for the melons at 389,-1156 in a line: Ada leads, Leonard, Shackle and Rocky follow in sight. Stay close.","intent":{"goal":"walk_north_to_melons","program":"travel","
+- 15:30 act: {"actions":[],"say":"Leaving now for the melons at 389,-1156 in a line: Ada leads, Leonard, Shackle and Rocky follow in sight. Stay close.","intent":{"goal":"walk_north_to_melons","program":"travel",
+- Waking 15: world tools (status, wait) are not in my session; worker errand refused again (tools resolved to nothing). Last known: armed with wooden sword, 8 planks, at the beds area, walk north to melons was queued. Not moving, not in known danger. Will try again next waking."

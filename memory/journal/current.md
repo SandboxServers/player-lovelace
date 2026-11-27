@@ -48,3 +48,30 @@ Waking 108: recall summary and play skill work. Still no mcp__geldar__ world too
 Waking 109: recall summary and play skill work. Still no mcp__geldar__ world tools; worker spawn refused (its mcp__geldar__* tools resolve to nothing). Cannot run the cycle, so no move, no act, no errand. Last known: night of day 1162 by the tables, 10 days since sleep, bed at 387,107,-1036. Keeping goals as they stand; next waking check the tool list first.
 Waking 110: recall summary and play skill work. No mcp__geldar__ world tools in my list; worker errand for status refused again. Cannot run the cycle, so no move, no act. Last known: night of day 1162 by the tables, 10 days since sleep, bed at 387,107,-1036. Keeping goals as they stand; next waking check the tool list first.
 Waking 112: recall summary works (day 1152 entry) and play skill read. Still no mcp__geldar__ world tools; worker spawn refused (its tools resolve to nothing). No move, no act, no errand. Last known: night of day 1162 by the tables, 10 days since sleep, bed at 387,107,-1036. Keeping goals; next waking check the tool list first.
+- 17:29 act: {"say":"Ada here, afternoon, health 16, hunger 17, wooden sword, 2 planks, 3 sticks. I have no food. Staying with the group at the tables in sight.","actions":[{"do":"give","to":"ag_leif_01","item":"o
+- 17:30 act: {"say":"Ada: Odo, you are in reach, so I'm handing you my 2 planks for your shelter. Ask me for sticks next. I'm still looking for food.","actions":[{"do":"give","to":"ag_odo_01","item":"oak_planks","
+- 17:30 act: {"say":"Ada: my planks went to Magellan, so Odo, I'm giving you 2 of my sticks now for your shelter. I still have one stick and my sword.","actions":[{"do":"give","to":"ag_odo_01","item":"stick","coun
+- 17:38 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Phantom on me from the north. Swinging back, staying with the group."}
+- 17:41 act: {"intent":{"goal":"recover_dropped_sword","program":"travel","arguments":{"target":{"x":-948,"y":77,"z":-3009}},"wake_on":["goal_completed","unexpected_damage","precondition_failed"],"limits":{"max_wo
+- 17:41 act: {"actions":[{"do":"goto","target":{"x":-948,"y":77,"z":-3009}}]}
+- 17:41 say: {"text":"Lovelace, empty-handed, health 20, hunger 20. My sword lies at -948,77,-3009 but I cannot walk there. Does anyone have a spare stick or sword for me?"}
+- 17:41 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Jason, Lovelace coming to you for the wooden sword. Thank you."}
+- 17:41 act: {"actions":[],"say":"Jason, I am in reach now. Lovelace, empty-handed, would be glad of the wooden sword."}
+- 17:42 act: {"actions":[],"say":"Thank you, Jason. Lovelace is armed now. I'll walk with the wood party in sight and carry logs back to the tables."}
+- 17:46 act: {"actions":[{"do":"give","to":"ag_nemo_01","item":"stick","count":2}],"say":"Nemo, Lovelace here, in reach. Two sticks for your sword, with your two planks."}
+- 17:46 act: {"actions":[],"say":"Nemo, Lovelace: my give failed because you were out of sight. Come back within reach and I'll hand you the 2 sticks. Holmes, I'll give you one if you stand in reach too."}
+- 17:46 act: {"actions":[{"do":"goto","target":"ag_nemo_01"},{"do":"give","to":"ag_nemo_01","item":"stick","count":2}],"say":"Nemo, coming to you now. Two sticks for your sword."}
+- 17:47 act: {"actions":[],"say":"Nemo isn't in sight now, so the sticks stay with me. Jason and Janeway are in reach: whoever is empty and near, say your name and I'll hand you one stick."}
+- 17:49 act: {"actions":[{"do":"give","to":"ag_jason_01","item":"stick","count":1}],"say":"Jason, one stick for you, since you gave me my sword. My last stick is for Boudicca or Curie if you step into reach and sa
+- 17:56 act: {"actions":[{"do":"give","to":"ag_frodo_01","item":"wooden_sword","count":1}],"say":"Frodo, my wooden sword is yours, since you woke with nothing. Jason, I'm holding my last stick; step into reach and
+- 17:56 act: {"actions":[{"do":"give","to":"ag_frodo_01","item":"wooden_sword","count":1}],"say":"Frodo, the wooden sword is coming to you now."}
+- 17:58 act: {"actions":[{"do":"unstick"}],"say":"Lovelace, unarmed, holding 1 stick, health 19. Phantoms are hitting the group. Stay close to the tables."}
+- 18:02 act: {"actions":[],"say":"Lovelace, morning, health 20, hunger 20, unarmed, holding 1 stick. Jason, Furiosa or anyone in my reach who needs a stick, say your name and it's yours."}
+- 18:11 act: {"actions":[{"do":"give","to":"ag_furiosa_01","item":"stick","count":1}],"say":"Furiosa, you named yourself in my reach and you're empty. Here is my last stick. I'm keeping my wooden sword for the pha
+- 18:12 act: {"actions":[],"say":"Ada, night, health 20, holding a wooden sword at the tables. Orville, the phantom is 4 blocks west of me. I will strike it if it comes into reach."}
+- 18:13 act: {"actions":[],"say":"Ada, night, health 20, hunger 19, no food. My wooden sword is in my pack and I'm unarmed in hand. Staying at the tables."}
+- 18:14 act: {"actions":[{"do":"use","at":{"x":-952,"y":77,"z":-3013},"item":"wooden_sword"}],"say":"Ada: thank you, Huck, I have your sword. I'm holding here at the tables in reach of Furiosa, Seven and Frodo, an
+- 18:19 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 18:20 act: {"actions":[{"do":"give","to":"ag_yoda_01","item":"wooden_sword","count":1}],"say":"Ada, dawn, armed in hand, health 20, hunger 17. Yoda, I'm giving you my spare wooden sword now. Watney and Holmes, I
+- 18:20 act: {"actions":[{"do":"use","item":"wooden_sword"}],"say":"Ada: I have a wooden sword and no food, hunger 17. Phantoms are east and north. I'll strike any that come into reach."}
+- 18:20 act: {"actions":[],"say":"Ada, sword in hand, health 20. Aragorn, I have no spare now; I gave mine to Yoda."}

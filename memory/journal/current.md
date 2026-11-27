@@ -8,3 +8,4 @@ Waking 28. Still no status, wait or act among my tools. The worker errand was re
 Waking 29. Woke with the same tools: no status, wait or act. Only memory, file, skill and agent tools. Staying put, no move, no errand. Last known unchanged: white beds near 388,107,-1036, no food.
 Waking 30. Still no status, wait or act among my tools; only memory, file, skill and agent tools. Staying put, no move, no errand. Last known unchanged: white beds near 388,107,-1036, no food. Next waking: check the tools again first.
 Waking 31. Tried status: no such tool (mcp__geldar__status absent). Still only memory, file, skill and agent tools. Staying put, no move, no errand. Last known unchanged: white beds near 388,107,-1036, no food.
+Waking 32. Checked my tools again: no status, wait or act, only memory, file, skill and agent tools. Staying put, no move, no errand. Last known unchanged: white beds near 388,107,-1036, no food. Next waking: check the tools first.

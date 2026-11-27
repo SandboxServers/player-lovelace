@@ -16,3 +16,4 @@ Waking 75: recall summary and journal work (day 1152). Read the play skill. Work
 Waking 76: recall summary works (day 1152). Play skill read. Still no mcp__geldar__ world tools (no status, wait, act, say); worker errands were refused before. Nothing running, not moving, no errand. Sheltered at white bed.
 Waking 77: recall summary works (day 1152). Play skill read. Still no mcp__geldar__ world tools (no status, wait, act, say) in my tool list. Nothing running, not moving, no errand. Sheltered at white bed.
 Waking 78: recall summary works (day 1152). Play skill read. Tool list still has no mcp__geldar__ world tools (no status, wait, act, say). Cannot run the cycle. Nothing running, not moving, no errand. Sheltered at white bed.
+Waking 79: recall summary works (day 1152). Play skill read. Worker errand for status refused again (its mcp__geldar__* tools resolve to nothing). No world tools in my session. Nothing running, not moving, no errand. Sheltered at white bed.

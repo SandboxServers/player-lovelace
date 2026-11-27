@@ -4,3 +4,4 @@ Waking 58: recall summary works (day 1152). Tool list still has no mcp__geldar__
 Waking 59: recall summary works (day 1152). Still no mcp__geldar__ world tools (no status, wait, act) in my tool list. Nothing running, not moving. Recorded and waiting.
 Waking 60: recall summary works (day 1152). Still no mcp__geldar__ world tools (no status, wait, act) in my tool list. Nothing running, not moving. Recorded and waiting.
 Waking 62: recall summary works (day 1152, white bed near chest). Tool list still has no mcp__geldar__ tools (no status, wait, act, say). Cannot play the cycle. Nothing running, not moving, no errand.
+- 16:47 act: {"say":"Ada here, midday, health and hunger 20, wooden sword in hand. I'm going to my dropped items at -953,78,-3019 in daylight, in sight of the group.","actions":[{"do":"goto","target":{"x":-953,"y"

@@ -18,3 +18,6 @@ Waking 33. Still no status, wait or act among my tools. The worker errand was re
 - 16:05 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3012}}],"say":"Ada, going to the crafting table at -948,78,-3012 in the group's sight, to make a sword.","reasoning":"Sticks done, 4 planks left
 - 16:05 act: {"actions":[{"do":"goto","target":"ag_tubman_01"}],"say":"Ada, following Tubman toward the table, in the group's sight.","reasoning":"Coordinate goto keeps failing. Try moving to a nearby agent headin
 - 16:05 act: {"actions":[{"do":"craft","item":"wooden_sword","count":1}],"say":"Ada, I'm beside the table now. Making a wooden sword.","reasoning":"Goto to the agent worked and I'm 5 blocks from the table. Try the
+- 16:12 act: {"actions":[{"do":"note","text":"Night at -950,78,-3013 beside the crafting table, with the group in sight. Holding still; the bed is too far to walk in the dark."}],"say":"Ada here, night, health and
+- 16:20 act: {"actions":[{"do":"note","text":"Dawn at -950,78,-3013. Night held by the table, no deaths here. Waiting for full light before the dropped gear at -953,78,-3019."}],"say":"Ada, dawn, health and hunger
+- 16:24 act: {"actions":[{"do":"attack","target":"phantom"}]}

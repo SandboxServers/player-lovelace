@@ -4,3 +4,4 @@ Waking 24. Still no status, wait or act among my tools; only memory, file, skill
 Waking 25. Still no status, wait or act among my tools. Staying put; no state confirmed. Last known unchanged: white beds near 388,107,-1036, no food.
 Waking 26. The world tools are present but status and wait returned rate_limited (retryAfter 1s) four times in a row. No state confirmed. Staying put. Last known unchanged: white beds near 388,107,-1036, no food. Next waking: try status once, then wait.
 Waking 27. Still no status, wait or act among my tools; the worker errand was refused because its world tools resolve to nothing. Staying put, no move. Last known unchanged: white beds near 388,107,-1036, no food. Next waking: check the tools again first.
+Waking 28. Still no status, wait or act among my tools. The worker errand was refused again (its world tools match nothing). Staying put, no move. Last known unchanged: white beds near 388,107,-1036, no food.

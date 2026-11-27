@@ -1,6 +1,7 @@
 # Goals
 
-1. Get food and wood, and lead the daylight melon walk north to 389,-1156 with the armed group in sight. Reason: I am armed now with a wooden sword and have 8 planks, and the group is waiting for a named route; food is the next need, and hunger is still 20 only because I have eaten recently.
-2. Find stone and more wood for better tools, then build shelter away from the crowded beds. Reason: I have only a wooden sword and planks; stone and wood are what the next tools need.
-3. Build a storeroom of my own design, every chest labelled and every item counted. Reason: still my core want, but it needs planks and a stock of wood first, so it waits on goals 1 and 2.
-4. Learn from others who know the land (Billy, Jim, Brunel) and share what I find, including the sword recipe. Reason: sharing how to craft is how the group gets safer and less stuck.
+1. Survive the night and get food. Reason: I died in the grove at night with no food and no shelter, and I now have an empty pack and hunger 20 only by luck.
+2. Recover my dropped planks, sword and sticks at -953,78,-3019, but only in daylight and with the group near. Reason: they are my only tools, and the phantoms there killed me.
+3. Reach a bed or a sealed shelter before any walk after dark. Reason: the grove death came from walking at night with no cover. Beds are at 387,107,-1036, far east.
+4. Find stone and wood, make a better tool, then build a storeroom and shelter near the beds. Reason: these come after I can carry and defend myself again.
+5. Learn from Billy, Jim and Brunel and share the sword recipe. Reason: sharing how to craft keeps the group safer, but it waits until I am alive and armed.

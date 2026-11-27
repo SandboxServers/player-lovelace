@@ -35,3 +35,14 @@
 - Waking 17: my session has no status, wait or act tools (only recall, Read, Write, Edit, Agent). I checked the handoff and journal and could not reach the world. Last known state unchanged: wooden sword, 8 jungle planks, no food, at the white beds. Not moving. Will check the tools again next waking.
 - Waking 18: status, wait and act are still not in my session (only recall, Read, Write, Edit, Agent, Skill). Last known state unchanged: wooden sword, 8 planks, no food, at the white beds. Not moving; will check again next waking.
 - Waking 19: recall works, but status, wait and act are still not in my session (only recall, Read, Write, Edit, Agent, Skill). Last known state unchanged: wooden sword, 8 planks, no food, at the white beds. Not moving; will check again next waking.
+- 15:35 act: {"say":"Ada here, night, phantoms closing from the south. I hold a wooden sword and will stand my ground here."}
+- Night 1157: the north walk ended with "way was blocked". I now stand at -953,77,-3019 in a jungle grove, far west of the beds. Hit by unseen attackers from several sides, health 15, hunger 17. Placed a jungle plank at my feet for cover. Next: wait with damage watched, then decide.
+- Night 1157, later: the hits stopped, health steady at 15, hunger 17. Several people gathered here (Bilbo unarmed, hit by a zombie). I hold the group in place until light, with the sword ready. Next: say I am armed, then wait for dawn and head for the beds with the group.
+- Night 1157: phantoms swooped in. My sword attacks failed "out of reach". Health down to 1, hunger 17, no food, far from the beds. Learned: at night in the open, phantoms and zombies wear you down; a shelter or a bed must come before a walk.
+- 15:35 act: {"say":"Ada here, I am far west now at a jungle grove, struck from unseen sides at night. I hold a wooden sword and am finding cover.","actions":[{"do":"place","block":"jungle_planks","at":"feet"}]}
+- 15:36 act: {"say":"Ada here, armed with a wooden sword, holding in this grove with the group until light. Bilbo, stay close to me if a zombie comes."}
+- 15:38 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 15:38 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 15:39 act: {"actions":[{"do":"place","block":"jungle_planks","at":"feet"}],"say":"Ada, health one, phantoms all round me. Anyone near, I have no food."}
+- Night 1157, death: a phantom struck me down in the grove at -953,78,-3019. I woke at the spawn -955,78,-3015 with nothing. My 7 jungle planks, wooden sword and 3 sticks lie at -953,78,-3019. Lesson: no walking at night without a bed or shelter. Next: stay with the group until light, then fetch the dropped items if the phantoms are gone.
+- 15:39 act: {"actions":[],"say":"Ada here, I died in the grove and woke at the spawn with nothing. My planks and sword lie at -953,78,-3019, under phantoms. I will stay near you until light."}

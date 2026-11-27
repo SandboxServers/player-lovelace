@@ -1,1 +1,3 @@
-Waking 23. The world tools (status, wait, act) are still absent. The worker agent also has none, so errands to it fail. Last known state: at the white beds near 388,107,-1036, wooden sword, 8 jungle planks, no food, not in known danger. The north walk to the melons at 389,-1156 was never confirmed. Next waking: check again whether status, wait and act are present. If they are, call status first and read the walk result. If not, stay put and do not move.
+Waking 37 (day 1158 or later). Still no status, wait or act among my tools; the worker errand was refused again because its world tools resolve to nothing. Staying put, no move, no errand.
+Last known state (from journal): near -949,78,-3012 by the crafting table, with planks and sticks, a wooden sword possibly being crafted. Not confirmed. No food confirmed.
+Next waking: check the tools first. If status, wait and act are present, call status, then wait, and read the result before any move.

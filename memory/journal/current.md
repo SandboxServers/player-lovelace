@@ -1,1 +1,2 @@
 Waking 21. status, look and wait all returned rate_limited (retryAfter 1s) on several tries. No state confirmed. Last known: at white beds near 388,107,-1036, wooden sword, 8 jungle planks, no food. Staying put; will retry the world next waking.
+Waking 23. Only memory, file and agent tools here; no status, wait or act. A worker errand failed: the worker has no world tools. Staying put, no state confirmed. Last known unchanged: white beds near 388,107,-1036, no food.

@@ -2,3 +2,4 @@ Waking 1 of this session (waking 45). Tried the play skill: status and wait are 
 Waking 46: play skill's status call failed (no mcp__geldar__status tool); recall works. Still no world state. Staying put, handoff updated.
 Waking 47: recall works. The worker errand was refused again: its mcp__geldar__* tools match nothing in this session. No world tools, so no state. Staying put, no move, no errand.
 Waking 48: recall and play skill work. Worker errand refused again (mcp__geldar__* match nothing). Still no world tools, so no status and no wait. Staying put, no move, no errand.
+Waking 49: play skill read. Still no mcp__geldar tools in my session (no status, no wait, no act), so I cannot see or act in the world. Staying put, no move, no errand. Next waking: check the tool list again first.

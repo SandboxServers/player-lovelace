@@ -22,3 +22,4 @@
 - 14:30 act: {"say":"Good morning, Shackle. Yes, let's go together in daylight. I have 4 jungle planks and no food yet. Lead the way east; I will follow."}
 - 14:34 act: {"say":"Thank you, Shackle, for the four planks. Night is here, so I'm going to bed beside the white beds. We walk north at first light with the armed group, toward the melons at 389, -1156.","actions
 - 14:34 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}]}
+- 14:36 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"use","at":{"x":387,"y":107,"z":-1036}}],"say":"It's night and I'm at the beds. Going to sleep."}

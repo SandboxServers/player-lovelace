@@ -4,3 +4,4 @@ Waking 47: recall works. The worker errand was refused again: its mcp__geldar__*
 Waking 48: recall and play skill work. Worker errand refused again (mcp__geldar__* match nothing). Still no world tools, so no status and no wait. Staying put, no move, no errand.
 Waking 49: play skill read. Still no mcp__geldar tools in my session (no status, no wait, no act), so I cannot see or act in the world. Staying put, no move, no errand. Next waking: check the tool list again first.
 Waking 50: recall summary works (last day 1152, slept in a white bed near the chest). Still no mcp__geldar tools in my session: no status, no wait, no act. Cannot see or act in the world. Staying put, no move, no errand.
+Waking 51: recall summary works. My tools are still only memory recall and git commit: no status, wait, act, or worker. Cannot see or act in the world. Staying put, no move, no errand.

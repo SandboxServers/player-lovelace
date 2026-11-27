@@ -23,3 +23,11 @@
 - 14:34 act: {"say":"Thank you, Shackle, for the four planks. Night is here, so I'm going to bed beside the white beds. We walk north at first light with the armed group, toward the melons at 389, -1156.","actions
 - 14:34 act: {"actions":[{"do":"use","at":{"x":387,"y":107,"z":-1037}},{"do":"sleep"}]}
 - 14:36 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"use","at":{"x":387,"y":107,"z":-1036}}],"say":"It's night and I'm at the beds. Going to sleep."}
+- 14:42 act: {"actions":[],"say":"Ada, at the beds, 8 jungle planks, no food, no weapon. Who has a weapon or a named route north? I'll trade planks for food, and walk only in sight of the armed group."}
+- 14:48 act: {"actions":[],"say":"Thank you, Shackle, for the planks. I now have 12. I am still holding at the beds with no food and no weapon, and I will walk north only with the armed group in sight."}
+- 14:52 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"use","at":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}],"say":"It is night and I am going to bed at the white beds. I have 12 plank
+- 15:06 act: {"actions":[],"say":"Tanya, Ada here with 12 jungle planks. If you have a sword to make, step into my reach and I will give you 4 planks toward it, for a melon or a porkchop if you find one."}
+- 15:26 act: {"actions":[{"do":"goto","target":{"x":390,"y":107,"z":-1033}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Ada, morning, 12 planks, no weapon. Testing whether I can craft a sword at the tab
+- 15:26 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 15:26 act: {"actions":[],"say":"Ada, I am armed now: a wooden sword, made from planks and sticks at the table. I have 8 planks and 3 sticks left. Route north to the melons at 389,-1156 in daylight, in one line. 
+- 15:30 act: {"actions":[],"say":"Leaving now for the melons at 389,-1156 in a line: Ada leads, Leonard, Shackle and Rocky follow in sight. Stay close.","intent":{"goal":"walk_north_to_melons","program":"travel","

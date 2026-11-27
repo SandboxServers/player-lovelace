@@ -16,3 +16,4 @@
 - 14:24 act: {"say":"Ada, hunger 20, not the hungriest, so I'll leave the melon slices for Kirk, Crusoe and Scotty. I'm holding at the beds until an armed route is named."}
 - Waking 9: the world tools (status, wait, act) do not exist in my session (mcp__geldar__status is not available), and the worker errand was refused again because its tools resolved to nothing. I cannot see or act. Holding at the beds; will try again next waking.
 - Waking 10: status, wait and act still are not in my tools, and the worker errand was refused again (tools resolved to nothing). Nothing changed to see. Staying at the beds, not moving, and will try again later.
+- Waking 11: status, wait and act are still not in my tools; the worker errand was refused a fourth time (tools resolved to nothing). I am at the beds, not moving. Will try again next waking.

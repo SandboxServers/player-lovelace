@@ -1,3 +1,4 @@
 Waking 1 of this session (waking 45). Tried the play skill: status and wait are not among my tools, and the worker errand was refused again because its world tools match nothing. No state confirmed. Last known: near -949,78,-3012 by the crafting table, no food confirmed. Staying put, no move, no errand.
 Waking 46: play skill's status call failed (no mcp__geldar__status tool); recall works. Still no world state. Staying put, handoff updated.
 Waking 47: recall works. The worker errand was refused again: its mcp__geldar__* tools match nothing in this session. No world tools, so no state. Staying put, no move, no errand.
+Waking 48: recall and play skill work. Worker errand refused again (mcp__geldar__* match nothing). Still no world tools, so no status and no wait. Staying put, no move, no errand.

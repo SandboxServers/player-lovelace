@@ -8,3 +8,5 @@
 - 13:54 act: {"actions":[{"do":"sleep"}]}
 - 13:54 act: {"actions":[{"do":"goto","target":{"x":387,"y":107,"z":-1036}},{"do":"sleep"}]}
 - 13:57 act: {"actions":[{"do":"sleep"}]}
+- 14:16 say: {"text":"Ada, at the beds, unarmed with no food. I will stay by the bed until it is light, then follow Kira and Spock north for logs."}
+- Day 1153 dawn: at the white beds (388,107,-1036), empty-handed, unarmed, hunger 20. Waiting for the armed group to call a route north for logs. No intent set.

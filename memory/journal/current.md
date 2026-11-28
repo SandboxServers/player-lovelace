@@ -62,3 +62,5 @@
 - 06:05 act: {"actions":[],"say":"Lovelace, morning 1201, hunger 17, no food. Balboa and Janeeyre are still in my reach. Balboa, when you are clear, I will take your carrot."}
 - 06:05 act: {"actions":[{"do":"eat"}],"say":"Thank you, Balboa. Lovelace, eating your carrot now. Hermione, you are next in line for food."}
 - 06:07 act: {"actions":[],"say":"Lovelace, midday 1201, hunger 17, health 20. I ate a carrot this morning, so Hermione, Picard, Gandalf and Brunel go first. I place nothing; no cell is checked."}
+- 06:19 say: {"text":"Ada, morning 1201, hunger 17, health 20, no food, not enclosed. Hermione, Brunel, Picard are ahead of me for food. I place nothing until two viewers name an open cell."}
+- 06:22 say: {"text":"Boudicca, Lovelace, midday 1201. I have no checked open cell to name yet, so I place nothing. Hunger 17, health 20, in sight at the chests."}

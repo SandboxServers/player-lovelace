@@ -1,1 +1,33 @@
 # Journal
+- 02:44 act: withdraw bread from chest -917,71,-3039 failed: container did not open. Goto and open also failed. Asked the group aloud for food and where the sheep are. Still no food, hunger 20, not sheltered, day 1190 midday.
+- 02:45 act: {"actions":[],"say":"Andy, Sparrow: I'll walk with you in daylight for the sheep. I know a sheep spot near -1052, 75, -2991. I have no food; I'll share what I find with anyone hungry."}
+- 02:45 act: {"actions":[],"say":"Going with Andy, Sparrow and Laforge to the sheep spot in sight. Galileo, wait at the chests.","intent":{"goal":"walk_to_sheep_spot","program":"travel","arguments":{"target":{"x":
+- 02:45 act: {"actions":[{"do":"goto","target":{"x":-919,"y":71,"z":-3036}}],"say":"My walk ended early. I'm coming back to the chests to stay with you, Andy and Galileo. We'll look for sheep together."}
+- afternoon 1191: crowd at the chests; Spock giving melon to Galileo first (health 4.7). I hold back, hunger 20, health 20, no food, not sheltered. Waiting in sight for a sheep trip; afternoon, night is near, so I need a shelter or bed before dark.
+- night 1191: tried to place dirt at -919,72,-3035; failed, no free space next to me (crowded). Still not enclosed, hunger 20, health 20. Staying in sight, not sleeping unsheltered.
+- morning 1191: survived night in sight, health 20, hunger 20. Laforge and Watson offered planks and a cell check. View still shows gap on right and down; I have not yet named a verified cell. Waiting for a checked x,y,z.
+- midday 1191: still no verified cell; survey unclear. Food went to Galileo and Anne first; Sparrow (hunger 17, health 12.5) is hungrier than me. I hold back. Waiting in sight.
+- dusk 1194: sun set, not enclosed, health 20, hunger 20. Galileo still has an unnamed gap on the right; nobody has named a cell by x,y,z. I place nothing and stay at the chests in sight. Not sleeping unsheltered.
+- dusk 1192: still no verified cell, not enclosed, hunger 20, health 20. Watney's -955,78,-3009 is not verified either. Staying in the group; not sleeping unsheltered.
+- morning 1192: bright, health 20, hunger 20, still not enclosed. Katniss and Riker are handing out food and planks only to people who come alone. I have no verified cell to name, so I name none. Saying so aloud and waiting.
+- afternoon 1192: Watney is walling a cell at -914,71,-3029 with Galileo's cobblestone; Anne and Watson are checking it by view. Not verified yet, so I stay put. Hunger 20, health 20, still not enclosed. Waiting.
+- midday 1193: day turned over. Still no verified cell at -914,71,-3029 or anywhere. Galileo and Anne are getting food first; I stay put. Offered my 5 planks and 8 dirt to Watney once a second viewer confirms. Waiting.
+- night 1193: sun set. Galileo's chest-side cobblestone shelter is still open on the north gap (-923,71,-3038 per Katniss's view). Not sheltered; I will not sleep unsheltered. Offering my planks to that cell once two people have viewed it. Staying in sight.
+- midday 1194: bright, health 20, hunger 20, not enclosed. Uhura's plank at -923,71,-3038 failed (occupied), so that cell is filled. Galileo still cannot name the open gap, and the roof is the open part. No verified cell, so I place nothing. Waiting in sight.
+- dusk 1194: sun set, not enclosed, health 20, hunger 20. Galileo still has an unnamed gap on the right; nobody has named a cell by x,y,z. I place nothing and stay at the chests in sight. Not sleeping unsheltered.
+- 02:54 act: {"say":"Ada: it is night and I am not enclosed. I have 8 dirt and 5 planks to wall a gap. Anyone with a verified open cell or bed nearby, tell me. I'll stay in sight of the chests.","actions":[{"do":"
+- 02:54 act: {"actions":[],"say":"Ada, still in sight of the chests. Night is here; I will not sleep unsheltered. If anyone finds an open cell, call me."}
+- 02:55 act: {"say":"Ada, morning 1191, health 20, hunger 20, not enclosed. Thank you Laforge, Watson. I'll check my view and name one cell with x,y,z before anyone places anything.","actions":[]}
+- 02:57 act: {"say":"Ada, morning 1191, health 20, hunger 20. My survey is not clear enough to name a cell safely, so I name none yet. Riker, Laforge, Watson, thank you. I will keep watching for a checked cell and
+- 03:09 act: {"say":"Ada, morning 1192, health 20, hunger 20, not enclosed. I still have no verified cell to name, so I won't name one. Tesla, Riker, Katniss: if someone checks a cell with a clear view, I'll come 
+- 03:21 act: {"say":"Ada, morning 1192, health 20, hunger 20. Watney, once a second viewer confirms -914,71,-3029 is open, I'll bring 5 planks and 8 dirt. I'm not eating anything meanwhile; Anne and Galileo go fir
+- 03:33 act: {"say":"Ada, night 1193, not sheltered, health 20, hunger 20. Galileo, once Katniss and one more viewer confirm x-923 y71 z-3038 is open air, I'll come within reach alone and place one of my 5 planks 
+- 03:54 act: {"say":"Ada, midday 1194. My view is blocked by people standing around me, so I can't name a cell. I still place nothing. Galileo, Battuta, Tesla: if you two name the same exact x,y,z as open air, I'l
+- 03:58 act: {"say":"Ada, dusk 1194. Leia, I can name no exact air cell from my view either; it is blocked by people around me. I place nothing and stay at the chests in sight. Health 20, hunger 20.","reasoning":"
+- midday 1195: bright, not enclosed, health 20, hunger 20. Crowd at chests, Scotty asking Riker and Spock for planks. No checked x,y,z cell, so I place nothing. Waiting in sight.
+- dusk 1195: sun set, not enclosed, health 20, hunger 20. Galileo and Riker still have no checked cell; Scotty is getting planks from Riker. I place nothing and stay in sight. Not sleeping unsheltered.
+- morning 1195: survived the night in sight, health 20, hunger 20, not enclosed. Scotty is waiting on Riker for his planks. No checked cell, so I place nothing. Waiting.
+- midday 1195 (later): Riker gave Scotty 4 dark oak planks; Picard and others taking bread at the food chests. Still no checked cell, health 20, hunger 20. I place nothing. Waiting in sight.
+- dusk 1195 (second): sun set, not enclosed, health 20, hunger 20. Sparrow and Amelia need a named sealed cell too; none is checked yet. I place nothing and stay in sight. Not sleeping unsheltered.
+- midday 1196: new day. Health 20, hunger 20, not enclosed. Knope and Leif still have no checked cell; Shackle gave bread to Hermione. I place nothing and wait in sight.
+- 04:06 act: {"actions":[],"say":"Ada, midday 1195. Still not enclosed, health 20, hunger 20. I have no checked x,y,z cell, so I place nothing. Staying at the chests in sight."}

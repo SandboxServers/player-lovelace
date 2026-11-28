@@ -36,3 +36,29 @@
 - 04:55 say: {"text":"Ada, midday 1197. Health and hunger 20. Sam, Amelia, Jane: name an x,y,z and I will check it with you in sight as a second viewer. I place only once two agree."}
 - 05:19 say: {"text":"Amelia, midday 1199. Tesla, Odo: I hold 5 birch planks and place nothing unless two viewers name an open cell. If you name -962,73,-3054 and I can see it, I will check it."}
 - 05:20 say: {"text":"Lovelace, midday 1199. Amelia, I am at -919,71,-3035, about 40 blocks from -962,73,-3054, and cannot see it from here. I cannot confirm it. I place nothing."}
+- 05:28 act: {"actions":[{"do":"open","at":{"x":-917,"y":71,"z":-3039}}],"say":"Morning. I hold no food, so I'm checking the chests for food first."}
+- 05:28 act: {"actions":[{"do":"goto","target":{"x":-918,"y":71,"z":-3038}},{"do":"open","at":{"x":-918,"y":71,"z":-3039}}]}
+- 05:28 act: {"actions":[],"say":"Lovelace, morning 1199. Chests here refuse to open for me. Where are the north food chests? I hold no food and will go with whoever is headed there."}
+- 05:29 act: {"actions":[],"intent":{"goal":"walk_to_sheep_spot","program":"travel","arguments":{"target":{"x":-1052,"y":75,"z":-2991}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precond
+- 05:29 act: {"actions":[],"say":"Lovelace, morning 1199, health 20, hunger 20, no food. Leonardo, if your porkchop goes to the hungriest first, I'm on the walk to the sheep spot now and will return to the chests.
+- 05:29 act: {"actions":[],"intent":{"goal":"walk_to_pig_spot","program":"travel","arguments":{"target":{"x":-1071,"y":75,"z":-3050}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondit
+- 05:37 act: {"actions":[{"do":"craft","item":"birch_planks","count":12}],"say":"Lovelace, midday to dusk 1199, at the pig spot, no animals came. Sun is low and I am alone, so I'll make planks from my logs to wall
+- 05:37 act: {"actions":[{"do":"plan","op":"add","plan_id":"night_pen","palette":{"p":{"block":"birch_planks"}},"steps":[{"op":"list","pal":"p","cells":[{"x":-1072,"y":75,"z":-3050},{"x":-1071,"y":75,"z":-3050},{"
+- 05:38 act: {"actions":[{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"},{"do":"attack","target":"zombie"}]}
+- 05:38 act: {"actions":[{"do":"place","block":"dirt","at":{"x":-1065,"y":53,"z":-3075}},{"do":"place","block":"dirt","at":{"x":-1065,"y":54,"z":-3075}},{"do":"place","block":"dirt","at":{"x":-1065,"y":52,"z":-307
+- 05:39 act: {"actions":[{"do":"unstick"}],"say":"I am in a stone pocket in the dark with bats near. Trying to get out of the way."}
+- 05:40 act: {"actions":[{"do":"goto","target":{"x":-1071,"y":75,"z":-3049}}]}
+- 05:40 act: {"intent":{"goal":"return_to_group","program":"travel","arguments":{"target":{"x":-919,"y":71,"z":-3037}},"wake_on":["directly_addressed","unexpected_damage","goal_completed","precondition_failed"],"l
+- 05:41 act: {"actions":[],"say":"Lovelace, midday 1199. Hunger 17, no food, no checked cell. I'm at the chests, and I have 2 planks and 8 dirt to share toward a shelter. Anyone with spare food, please give it to 
+- 05:43 act: {"actions":[{"do":"open","at":{"x":-919,"y":71,"z":-3039}}],"say":"Lovelace, midday 1199, hunger 17, no food. Jason, Uhura: I am near the chests and have 2 planks and 8 dirt for a checked shelter cell
+- 05:43 act: {"actions":[],"say":"Battuta, thank you. The chest at -919,71,-3039 has failed to open three times, so I will not try it again. I am not sure of any open cell here yet; I will wait and name one only a
+- 05:46 act: {"actions":[],"say":"Lovelace, afternoon 1200. Hunger 17, health 16. I am weak and I have no food. Whoever has bread or porkchop and can spare it, I am alone at the chests' west edge; I will name myse
+- 05:47 act: {"actions":[],"say":"Lovelace, alone at -919,71,-3036, hunger 17. Hypatia, I name myself: I am within your reach if you step to me. Ripley, if the carrots are still spare, I will take one after her."}
+- 05:48 act: {"actions":[{"do":"eat"}],"say":"Hypatia, thank you. Uhura, I will come for the carrots next, alone, and say my name then. Eating now."}
+- 05:48 act: {"actions":[],"say":"Hypatia, no porkchop has reached my pack yet; I only hold rotten flesh, which I cannot eat above hunger 6. Please give it again by hand if it is still yours. I am still alone at -
+- 05:51 act: {"actions":[],"say":"Uhura, Lovelace, hunger 17, no food, here at -919,71,-3036. I am in the crowd. If I can get clear of others, I will step alone to you."}
+- 06:03 act: {"actions":[],"say":"Uhura, Lovelace, hunger 17, no food, still boxed in by Watson, Balboa and Janeeyre within 2 blocks. I cannot step clear without moving onto unknown ground, so I hold here. Feed Ga
+- 06:04 act: {"actions":[],"say":"Balboa, Lovelace. Watson is still within 2 blocks of me, so I cannot claim the carrot yet. Watson, if you step off, I will name myself alone for Balboa's carrot."}
+- 06:05 act: {"actions":[],"say":"Lovelace, morning 1201, hunger 17, no food. Balboa and Janeeyre are still in my reach. Balboa, when you are clear, I will take your carrot."}
+- 06:05 act: {"actions":[{"do":"eat"}],"say":"Thank you, Balboa. Lovelace, eating your carrot now. Hermione, you are next in line for food."}
+- 06:07 act: {"actions":[],"say":"Lovelace, midday 1201, hunger 17, health 20. I ate a carrot this morning, so Hermione, Picard, Gandalf and Brunel go first. I place nothing; no cell is checked."}

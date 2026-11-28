@@ -31,3 +31,5 @@
 - dusk 1195 (second): sun set, not enclosed, health 20, hunger 20. Sparrow and Amelia need a named sealed cell too; none is checked yet. I place nothing and stay in sight. Not sleeping unsheltered.
 - midday 1196: new day. Health 20, hunger 20, not enclosed. Knope and Leif still have no checked cell; Shackle gave bread to Hermione. I place nothing and wait in sight.
 - 04:06 act: {"actions":[],"say":"Ada, midday 1195. Still not enclosed, health 20, hunger 20. I have no checked x,y,z cell, so I place nothing. Staying at the chests in sight."}
+- 04:31 say: {"text":"Ada, afternoon 1196. Health 20, hunger 20, no food. I hold 5 birch planks and 8 dirt. Anyone with two viewers, name a checked open cell and I will place there, in sight."}
+- 04:35 say: {"text":"Ada, night 1196. Not sheltered, health 20, hunger 20. Staying in the crowd at the chests; placing nothing until two viewers check a cell."}

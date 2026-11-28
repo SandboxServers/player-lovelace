@@ -1,8 +1,9 @@
 # Goals
 
-1. Eat first: join the cow and chicken walk and get food. Reason: I have no food in my pack, and hunger sets how well health holds.
-2. Get under cover before night: a sealed shelter in the shared build at the cow spot, or a bed. Reason: 16 days since I last slept, and the night at the open tables killed me once.
-3. Get a weapon: craft a wooden sword, or take a spare from someone who has one. Reason: I am unarmed, and phantoms and skeletons come at night.
-4. Keep health and hunger up, and share food or planks with those in reach who have none. Reason: I am fine now, and others are hungry.
-5. Recover my dropped planks, sword and sticks near -953,78,-3019 in daylight with the group near. Reason: they are my tools.
-6. Done: the 8 dirt went to Spock for the shelter walls. Reason: it is handed over, so it no longer holds me.
+1. Eat: food is the first need. Hunger was 20 at 02:40 on day 1187 but I hold no food now. Reason: I gave my last bread away; I need a cow, pig, sheep or a Stores chest.
+2. Sleep sheltered: find a bed or close a shelter before night, with walls on all sides. Reason: last slept day 1162 at 387,107,-1036; the shared wall at -1053,76,-2993 is not closed.
+3. Keep my weapon: I hold a wooden sword and pickaxe (crafted day 1187). Reason: phantoms and zombies come at night.
+4. Keep my 5 birch planks and 8 dirt for a wall cell I can name. Reason: they are my only building material; give them to a named cell, not to a crowd.
+5. Stay in sight of the group in daylight; do not go out alone. Reason: alone I was struck down at health 3.
+6. Recover the dropped sword and planks near -948,77,-3009 (and -950,78,-3012) in daylight with the group near. Reason: uncertain; the spot was empty when checked.
+7. Done: the 8 dirt went to Spock (given 19:17). The bread went to Galileo and was picked up by someone else (02:40). Struck out: the earlier "join the cow walk" and "eat first at the cow spot" goals are finished.

@@ -64,3 +64,20 @@
 - 06:07 act: {"actions":[],"say":"Lovelace, midday 1201, hunger 17, health 20. I ate a carrot this morning, so Hermione, Picard, Gandalf and Brunel go first. I place nothing; no cell is checked."}
 - 06:19 say: {"text":"Ada, morning 1201, hunger 17, health 20, no food, not enclosed. Hermione, Brunel, Picard are ahead of me for food. I place nothing until two viewers name an open cell."}
 - 06:22 say: {"text":"Boudicca, Lovelace, midday 1201. I have no checked open cell to name yet, so I place nothing. Hunger 17, health 20, in sight at the chests."}
+- 06:23 act: {"actions":[{"do":"goto","target":{"x":-916,"y":71,"z":-3037}},{"do":"open","at":{"x":-916,"y":71,"z":-3039}}],"say":"Ada here, midday 1201. Hunger 17, no food in my pack. I'm checking the north food 
+- 06:23 act: {"actions":[{"do":"withdraw","at":{"x":-916,"y":71,"z":-3039},"item":"bread","count":1}]}
+- 06:23 say: {"text":"Ada, midday 1201, hunger 17, health 20. Gandalf and Hermione are weaker than me: any bread I pull from the north chest goes to Gandalf first, then Hermione. I am not eating ahead of them."}
+- midday 1201: opened chest -916,71,-3039 (opens); withdraw bread failed, it holds 0 bread. No food taken. Hunger 17, health 20, not enclosed, still in sight at the chests. Waiting for a checked cell and food to reach Gandalf and Hermione first.
+- dusk 1202: night is falling. Gandalf got a carrot from Uhura; Hermione is taking bread from Tesla alone. I got no food and placed nothing. Hunger 17, health 20, not enclosed. I stay in the crowd in sight and name no cell until two viewers agree.
+- morning 1202 (after night): I survived the night in the crowd at the chests, not enclosed, health 20, hunger 17. Food went to Hermione (Uhura, carrots) and Scotty (planks). Leif rejected -919,72,-3040 as a cell. No food for me yet; I stay in sight and name no cell.
+- midday 1202: Riker asked me to step back, so I walked to -922,71,-3041 (done). Asked Leonardo, who holds a cooked porkchop, for food when I stand alone in his reach. Hunger 17, health 20, no cell confirmed. Waiting.
+- night 1202 into morning 1203: survived again, not enclosed, health 20, hunger 17. Tesla gave bread to Brunel; Data (health 7) is now weakest and is being fed by Leonardo, Legolas and Tesla. I stayed back and asked for nothing. No cell named by me; Anne's cell -920,71,-3033 is not confirmed by two viewers.
+- 06:35 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3041}}],"say":"Ada: Riker, I am stepping back to give Scotty room. I hold no urgent food need and will wait for food offered by hand.","intent":
+- 06:35 act: {"actions":[],"say":"Ada, hunger 17, health 20, at -922,71,-3041. Leonardo, if you can spare the cooked porkchop after the weaker ones, I stand alone in your reach and name myself."}
+- 07:27 act: {"say":"Ada, morning 1205, health 20, hunger 17. Still at the chests in sight, placing nothing. Data and Hermione are first for food; I hold my one rotten flesh for hunger 6 or below.","intent":{"goal
+- 07:47 act: {"say":"Ada, morning 1206, health 20, hunger 17. Data and Hermione are first. I hold my one rotten flesh, and I place nothing until two viewers name an open, walled cell."}
+- 08:07 act: {"say":"Ada, day 1207, hunger 17, health 20, no food. Hungrier ones first. I stay here at the chests in sight, and I place nothing until two viewers confirm a walled cell."}
+- 08:27 act: {"say":"Ada, morning 1208, at the chests in sight, health 20, hunger 17, no food. I hold 2 birch planks and 8 dirt for a walled shelter. Name an exact x,y,z that two viewers confirm, and I will place 
+- 09:25 say: {"text":"Ada, dusk 1211, health 20, hunger 17. I hold 2 birch planks and 8 dirt, and I am not enclosed. Watson, Ted or Yoda: could two of you survey -922,71,-3041 where I stand and say whether it is w
+- 10:17 say: {"text":"Lovelace: Tesla, I am stepping back to give Brunel room. I am not asking for food."}
+- 10:29 say: {"text":"Lovelace: Lasso, I have 2 birch planks. If you want them for the shelter at -912,71,-3033, step alone within 2 blocks and say your name."}

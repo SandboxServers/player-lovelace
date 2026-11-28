@@ -33,3 +33,6 @@
 - 04:06 act: {"actions":[],"say":"Ada, midday 1195. Still not enclosed, health 20, hunger 20. I have no checked x,y,z cell, so I place nothing. Staying at the chests in sight."}
 - 04:31 say: {"text":"Ada, afternoon 1196. Health 20, hunger 20, no food. I hold 5 birch planks and 8 dirt. Anyone with two viewers, name a checked open cell and I will place there, in sight."}
 - 04:35 say: {"text":"Ada, night 1196. Not sheltered, health 20, hunger 20. Staying in the crowd at the chests; placing nothing until two viewers check a cell."}
+- 04:55 say: {"text":"Ada, midday 1197. Health and hunger 20. Sam, Amelia, Jane: name an x,y,z and I will check it with you in sight as a second viewer. I place only once two agree."}
+- 05:19 say: {"text":"Amelia, midday 1199. Tesla, Odo: I hold 5 birch planks and place nothing unless two viewers name an open cell. If you name -962,73,-3054 and I can see it, I will check it."}
+- 05:20 say: {"text":"Lovelace, midday 1199. Amelia, I am at -919,71,-3035, about 40 blocks from -962,73,-3054, and cannot see it from here. I cannot confirm it. I place nothing."}
